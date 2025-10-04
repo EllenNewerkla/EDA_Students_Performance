@@ -1,7 +1,7 @@
 # Análise Exploratória de Dados - Student Performance
 Exploratory Data Analysis (EDA) sobre o desempenho de estudantes em matemática, leitura e escrita, usando Python (Pandas, Matplotlib, Seaborn).
 
-Fonte do Dataset: [Kaggle] (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+Fonte do Dataset: [Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 ---
 
@@ -11,6 +11,14 @@ Fonte do Dataset: [Kaggle] (https://www.kaggle.com/datasets/spscientist/students
 - Avaliar impacto de gênero e preparação no desempenho
 - Identificar correlação entre matérias
 - Resumo estatístico da análise
+
+---
+
+### **Tecnologias Utilizadas**
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
 
 ---
 
@@ -72,19 +80,13 @@ A análise que realizei mostrou que o desempenho dos alunos apresentam alguns pa
 
 ---
 
-### **Como Rodar o Projeto?**
-<code>git clone https://github.com/seu-usuario/student-performance-eda.git </code><br /> 
-<code>cd student-performance-eda/notebooks </code><br /> 
-<code>jupyter notebook </code><br /> 
+### **Como Rodar o Projeto**
+<code>git clone https://github.com/EllenNewerkla/EDA_Students_Performance.git 
+cd EDA_Students_Performance/notebooks
+jupyter notebook </code>
+<br /> 
 
 
-### **Tecnologias**
-- Python 3
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-
-
-### **Conclusão Final**
-
-### **Contato**
+### **Vamos mater Contato!**
+- [LinkedIn](https://www.linkedin.com/in/ellennewerkla/) <br/>
+- [Email](mailto:ellennewerkla@gmail.com) <br/>
